@@ -1,3 +1,7 @@
 site_name: My Docs
 theme:
   name: material
+  
+repo_name: marodev/awesome
+repo_url: https://github.com/marodev/awesome
+edit_uri: ""
